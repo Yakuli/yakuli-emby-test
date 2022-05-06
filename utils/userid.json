@@ -1,0 +1,12 @@
+{
+  "123131": {
+    "type": "admin",
+    "emby_name": "hello",
+    "emby_id": "fadasfdsaf"
+  },
+  "321132": {
+    "type": "user",
+    "emby_name": "world",
+    "emby_id": "fdsarqrdrewr"
+  }
+}
