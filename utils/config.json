@@ -1,0 +1,19 @@
+{
+  "BOT_TOKEN": "",
+  "EMBY_URL": "http://8.8.8.8:8096",
+  "API_TOKEN": "7afdsa3f0833214a59cf21be1f",
+  "PROXY": "http://127.0.0.1:10102",
+  "LINES": [
+    "http://8.8.8.8:8096",
+    "http://1.1.1.1:111"
+  ],
+  "LOG_FILE": "log.txt",
+  "WELCOME": "欢迎使用EMBY机器人",
+  "COMMAND": {
+    "/my": "查看用户信息",
+    "/create": "注册账号",
+    "/reset": "重置密码",
+    "/bind": "绑定已有emby账号",
+    "/line": "查看线路"
+  }
+}
